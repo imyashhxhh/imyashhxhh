@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on several projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Structures and React<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on several projects<br>🤝 I’m looking for help with new projects<br>🌱 I’m currently learning Data Structures and React<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
